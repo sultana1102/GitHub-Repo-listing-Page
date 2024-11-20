@@ -1,0 +1,64 @@
+#repositories,
+.user-details {
+    margin: 0 auto;
+}
+
+#pagination-container {
+    margin: 2rem auto;
+}
+
+.pagination {
+    justify-content: center;
+}
+
+.card-body {
+    border: 1px solid #eee;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-top: 1.5rem;
+    height: 180px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-text {
+    overflow: scroll;
+    height: 4rem
+}
+
+.spinner-border {
+    margin: 0 auto;
+    display: block;
+    margin-top: 5rem;
+}
+
+.find-user-container {
+    margin: 3rem auto 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-control,
+.row label {
+    width: auto;
+}
+
+#invalid-user {
+    text-align: center;
+}
+
+#user-container img{
+    width: 180px !important;
+}
+
+#user-container .card-body{ 
+    height: auto;
+}
+#user-container
+{
+    width: 144%;
+    margin-left: -22%;
+}
+.card-link
+{
+    text-decoration: none;
+}
